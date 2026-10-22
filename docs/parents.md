@@ -61,10 +61,6 @@ Each student needs a FIRST account, must be on the team roster, and needs a FIRS
 4. Sign the FIRST Consent and Release Form in the [FIRST Dashboard](https://my.firstinspires.org/Dashboard/).
 5. If you get stuck, search the [FIRST Help Center](https://help.firstinspires.org/).
 
-## Safety glasses
-
-Students should wear safety glasses while building and at events. Check the [Competition Manual](https://ftc-resources.firstinspires.org/ftc/game/manual) for the exact rules at events.
-
 ## How parents can help
 
 - Drive students to practices and events.

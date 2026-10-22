@@ -34,7 +34,7 @@ Teams can also earn extra **ranking points** for reaching certain goals. Ranking
 ## New this season
 
 - Section 1 of the Competition Manual includes a **Competition Integrity Contract**. The whole team should review it together.
-- A robot may use **at most 8 servos** (small motors that turn to a set position).
+- A robot may use **at most 8 servos**.
 - The limit on which game controllers are allowed has been **removed**.
 - The judging interview is now called the **Initial Interview**. It may be in person or remote, depending on the event.
 
