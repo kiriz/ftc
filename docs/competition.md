@@ -15,7 +15,7 @@ last_updated: 2026-10-22
 | Advancement to the next event | No | Yes |
 | Results | Count toward ranking at the league tournament | Decide who advances |
 
-Our league season (estimated, XSTREAM league) has 3 league meets and 1 league tournament.
+The Texas league fee covers 3 league meets and 1 league tournament.
 
 ## Ranking versus judging
 
@@ -37,7 +37,7 @@ Teams are compared only with other teams at the same event.
 
 Events after the league tournament, for teams that advance: the Austin Semi-Regional, the Central Texas Regional Championship, the Texas State Cup (by invitation) and the FIRST Championship in Houston (by invitation). For how teams move from one to the next, see [FIRST Texas FTC advancement](https://www.firsttx.org/ftc-advancement).
 
-The UIL State Championship is only for teams that represent a high school, so it does not apply to our team.
+The UIL State Championship is only for teams that represent a high school.
 
 ## How hard each step was last season (2025–26)
 

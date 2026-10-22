@@ -1,9 +1,9 @@
-# Leander FTC Team site
+# Central Texas FTC Guide
 
 [![CI](https://github.com/kiriz/ftc/actions/workflows/ci.yml/badge.svg)](https://github.com/kiriz/ftc/actions/workflows/ci.yml)
 [![Live site](https://img.shields.io/badge/live-kiriz.github.io%2Fftc-3b82f6)](https://kiriz.github.io/ftc/)
 
-A plain-English guide to FIRST Tech Challenge and the 2026–27 BIOBUZZ season for our families, students and coaches. Not an official FIRST site.
+A plain-English guide to FIRST Tech Challenge and the 2026–27 BIOBUZZ season for families, students and coaches of Austin-area and Central Texas teams. Not an official FIRST site.
 
 ## How to edit a page
 

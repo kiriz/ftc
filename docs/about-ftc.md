@@ -23,7 +23,7 @@ FIRST Tech Challenge (FTC) is a robotics program for students in grades 7–12 (
       - **Areas** within each region (for example, the Austin area in Central Texas).
         - **Leagues** within each area. Larger leagues are split into **divisions**.
 
-Our team is in the **Central** region. Central Texas includes the Austin area (Travis, Williamson, Hays, Caldwell, Bastrop and Bell counties), San Antonio, Corpus Christi and Waco.
+**Central** Texas Texas includes the Austin area (Travis, Williamson, Hays, Caldwell, Bastrop and Bell counties), San Antonio, Corpus Christi and Waco.
 
 Austin-area leagues:
 

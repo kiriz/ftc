@@ -6,9 +6,9 @@ last_updated: 2026-10-22
 
 ## Frequently asked questions
 
-### What if we don't get a league?
+### How does a team get a league?
 
-League placement is not yet confirmed. The Central Texas program administrator places teams in leagues. Contact details are on the [FIRST Texas FTC regions and contacts page](https://www.firsttx.org/ftc-regions). Until placement is confirmed, our calendar assumes the XSTREAM league.
+The Central Texas program administrator places teams in leagues. Contact details are on the [FIRST Texas FTC regions and contacts page](https://www.firsttx.org/ftc-regions).
 
 ### Are league meets judged?
 

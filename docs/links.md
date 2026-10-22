@@ -40,8 +40,8 @@ All links go to official FIRST or FIRST Texas pages unless noted.
 ## Events and results
 
 - [2026–27 FTC event list](https://ftc-events.firstinspires.org/2026/events): every FTC event this season.
-- [Texas Central region leagues and events](https://ftc-events.firstinspires.org/2026/region/USTXCE): leagues, events and results in our region.
-- [XSTREAM league](https://ftc-events.firstinspires.org/2026/region/USTXCE/league/XS): our expected league's events, rankings and results.
+- [Texas Central region leagues and events](https://ftc-events.firstinspires.org/2026/region/USTXCE): leagues, events and results in the Central Texas region.
+- [XSTREAM league](https://ftc-events.firstinspires.org/2026/region/USTXCE/league/XS): events, rankings and results for one Austin-area league.
 
 ## Learning
 

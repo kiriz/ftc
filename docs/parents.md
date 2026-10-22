@@ -14,11 +14,11 @@ Your student joins a team of up to 15 students in grades 7–12. Over the season
 |---|---|
 | Team practices | To be announced. The team will set the schedule. |
 | Austin practice event (scrimmage) | Sat Oct 24, 2026 |
-| League meets | Sat Nov 14, 2026; Sat Dec 5, 2026; Sat Jan 9, 2027 (XSTREAM league, estimated) |
-| League tournament | Sat Jan 30, 2027 (XSTREAM league, estimated) |
+| League meets | 3 Saturdays; dates depend on the league |
+| League tournament | 1 Saturday; date depends on the league |
 | Later events | Only if the team advances. See the [season calendar](calendar.md). |
 
-League placement is not yet confirmed. The dates above assume the XSTREAM league.
+See the [season calendar](calendar.md) for each Austin-area league's dates.
 
 ## Costs
 

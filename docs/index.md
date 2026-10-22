@@ -4,7 +4,7 @@ title: Home
 last_updated: 2026-10-22
 ---
 
-This site explains FIRST Tech Challenge (FTC) and this season's challenge, BIOBUZZ (2026–27), for the families, students and coaches of the Leander FTC Team. We are a new, parent-led middle school team in Leander, Texas. This is not an official FIRST site.
+This site explains FIRST Tech Challenge (FTC) and this season's challenge, BIOBUZZ (2026–27), for families, students and coaches of FTC teams in the Austin area and Central Texas. This is not an official FIRST site.
 
 ## Start here
 
@@ -20,19 +20,18 @@ New to FTC? Read [What is FTC](about-ftc.md) first.
 |---|---|
 | Game | BIOBUZZ presented by RTX, part of the FIRST CANOPY season |
 | Season | 2026–27. Kickoff was September 12, 2026. |
-| League | XSTREAM league, Austin (estimated; placement not yet confirmed) |
-| Our goal | Play the league season, then try to advance to the Regional Championship and the Texas State Cup |
+| Austin-area leagues | XSTREAM, GEMS and Blackjack |
 
 ## Key upcoming dates
 
 | Date | Event | Status |
 |---|---|---|
 | Sat Oct 24, 2026 | Austin practice event (scrimmage), KIPP Austin Collegiate | Confirmed |
-| Sat Nov 14, 2026 | XSTREAM league meet 1, KIPP Austin Collegiate | Confirmed date |
 | Sun Nov 15, 2026 | FIRST registration ($350) due | Confirmed |
-| Sat Dec 5, 2026 | XSTREAM league meet 2, Austin | Confirmed date |
+| Tue Dec 15, 2026 | Texas league fee ($325) due | Confirmed |
+| Sat–Sun Mar 20–21, 2027 | Texas State Cup (by invitation) | Confirmed |
 
-See the full [season calendar](calendar.md).
+League meet dates depend on your league. See the full [season calendar](calendar.md).
 
 ## Sources
 
