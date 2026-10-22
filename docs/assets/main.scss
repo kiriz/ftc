@@ -1,0 +1,20 @@
+---
+---
+
+@import "minima";
+
+// Wide tables scroll inside their own box instead of pushing the page sideways on phones
+table {
+  display: block;
+  overflow-x: auto;
+  max-width: 100%;
+}
+
+body {
+  font-size: 17px;
+  line-height: 1.6;
+}
+
+.site-footer p {
+  margin-bottom: 0.4em;
+}

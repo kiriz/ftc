@@ -1,0 +1,16 @@
+title: Leander FTC Team
+description: A plain-English guide to FIRST Tech Challenge and the 2026–27 BIOBUZZ season for our families, students and coaches.
+theme: minima
+baseurl: /ftc
+url: https://kiriz.github.io
+header_pages:
+  - index.md
+  - about-ftc.md
+  - biobuzz-2026-27.md
+  - parents.md
+  - students.md
+  - coaches.md
+  - calendar.md
+  - competition.md
+  - links.md
+  - faq.md

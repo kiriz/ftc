@@ -1,0 +1,5 @@
+# Prose pages: long lines and front-matter titles are normal
+MD013: false
+MD041: false
+# Allow compact table dividers (|---|) so hand-edited tables don't fail CI
+MD060: false
